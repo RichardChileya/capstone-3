@@ -113,7 +113,7 @@ header {
 }
 
 .country-item:nth-of-type(4n+3) {
-  background-color:#ec4c8a;
+  background-color: #ec4c8a;
 }
 
 .country-item > a {
