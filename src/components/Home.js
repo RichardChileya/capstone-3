@@ -1,9 +1,13 @@
-import React from 'react';
+import ContinentPicker from './ContinentPicker';
+import Map from './Map';
+import Countries from './Countries';
 
-const Home = () => (
-  <div>
-    <h2>Home Page</h2>
-  </div>
+const HomePage = () => (
+  <>
+    <Map />
+    <ContinentPicker />
+    <Countries />
+  </>
 );
 
-export default Home;
+export default HomePage;
