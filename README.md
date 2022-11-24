@@ -24,8 +24,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>React Capstone Project</b></h3>
 
@@ -116,7 +114,8 @@ JavaScript, React, HTML,CSS
 
 > Add a link to your deployed project.
 
-- [Live Demo Link not yet available](https://yourdeployedapplicationlink.com)
+- [Live Demo Link not yet available](https://expolore-countries.netlify.app/)
+- [Video](https://www.loom.com/share/1b9e6a94a65c4f5987d3703d4e3fd924)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
