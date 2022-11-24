@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+<a name="readme-top">React Capstone Project</a>
 
 <!--
 HOW TO USE:
@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>React Capstone Project</b></h3>
 
 </div>
 
@@ -35,38 +35,46 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
+- [📖 About the Project](#about-project) 
+  - [🛠 Built With](#built-with) 
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  git clone <ssh link>
   - [Prerequisites](#prerequisites)
+   
   - [Install](#install)
+  npm install i 
+ 
+
   - [Usage](#usage)
+ run:  npm start
   - [Run tests](#run-tests)
+  run:  npm test
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [React Capstone Project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+>  This is a simple  React Web Application  developed to display a list of countries and their details fetched from an API. the project makes use of key Reac features such as  Redux, Thunk and Loggers.
 
-**[your_project__name]** is a...
+**[The World ]** is a simple project based on data from the globe. An API populates data about countries in a specific regioned and data is rendered through react functions.
 
 ## 🛠 Built With <a name="built-with"></a>
-
+ The application has been built with React-Redux, API integretion and React CRA
 ### Tech Stack <a name="tech-stack"></a>
-
+JavaScript, React, HTML,CSS
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
@@ -96,9 +104,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[API Intergration]**
+- **[API Rendering]**
+- **[Country Picker]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +116,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link not yet available](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,95 +132,62 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
 
 ```sh
- gem install rails
+ npm install 
 ```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/RichardChileya/capstone-3.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
+npm install i 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+npm start 
 
 ### Run tests
 
-To run tests, run the following command:
-
-<!--
-Example command:
 
 ```sh
-  bin/rails test test/models/article_test.rb
+npm test
 ```
---->
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
 
 ```sh
-
+ run build
 ```
  -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+
+## 👥 Richard Chileya <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Richard Chileya**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@RichardChileya](https://github.com/RichardChileya/)
+- Twitter: [@RichardChileya](https://twitter.com/RichardChileya/)
+- LinkedIn: [richard-chileya](https://linkedin.com/in/richard-chileya-1076b4200//)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,11 +195,11 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Search_feature]** 
+  - Live Data (time, weather)
+- [ ] **[Live_Data]**
+- [ ] **[responsive_design]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -234,7 +209,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/RichardChileya/capstone-3/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,11 +225,11 @@ If you like this project...
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 [Nelson Sakwa](https://www.behance.net/sakwadesignstudio)
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank My Morning Team mates for the assistance 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -264,13 +239,9 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[How Could i Improve this project]**
 
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  - [You could build a search feature]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
